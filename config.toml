@@ -1,0 +1,4 @@
+languageCode = "en-us"
+theme = "hermit"
+title = "My New Hugo Site"
+baseURL = "http://121.199.6.100:1313/"
